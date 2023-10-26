@@ -1,0 +1,17 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "DataProviderId": "",
+    "DataProviderSecret": "",
+    "ProductSource": "product",
+    "VariantSource": "productVariant",
+    "PriceSource": "price",
+    "StockSource": "stock",
+    "myqueue-items": "myqueue-items",
+    "CentraEnvironmentToken": "",
+    "CentraEnvironmentUrl": "https://{yourCompany}.centra.com/graphql",
+    "AzureFunctionsJobHost__extensions__queues__batchSize": 1
+  }
+}
